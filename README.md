@@ -1,2 +1,0 @@
-# viteWeb
-vitepress website
